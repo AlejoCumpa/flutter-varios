@@ -1,0 +1,97 @@
+{
+    "meta": [
+        {
+            "General": [
+                {
+                    "Name before Release": "BL 3264"
+                },
+                {
+                    "Released Year": "2010"
+                },
+                {
+                    "Recommended Areas": "Up to the height of 500 meter of sea level terai,plataeu and valley"
+                }
+            ]
+        },
+        {
+            "Morphological Characteristics": [
+                {
+                    "Color of Seed": "Amber"
+                },
+                {
+                    "Glaucosity of Flag Leaf Sheath": "Medium"
+                },
+                {
+                    "Pinnacle Type": "Parallel"
+                },
+                {
+                    "Presence of Purple Colour in Outer Auricle of Flagged-Leaf": "Medium"
+                },
+                {
+                    "Ripen Pinnacle Colour": "White"
+                },
+                {
+                    "Shape of Seed": "Long"
+                },
+                {
+                    "Shine of Pennicle of Wheat (Ear Glaucosity)": "Medium"
+                }
+            ]
+        },
+        {
+            "Agronomical Characteristics": [
+                {
+                    "Average Height (cm)": "96"
+                },
+                {
+                    "Maturing Days (days)": "118"
+                },
+                {
+                    "Pinacle days (days)": "75"
+                },
+                {
+                    "Quantity of tiler": "255"
+                },
+                {
+                    "Resistant Characteristics": "Can resist yellow and vermillion leaf disease, can withstand hot air which flows after  the formation of tiller, can yield in high amount even in the soil where less amount of boron is found "
+                },
+                {
+                    "Weight of Thousand grains (gram)": "45"
+                },
+                {
+                    "Yield (ton/ha)": "4.79"
+                }
+            ]
+        },
+        {
+            "Nutritional and Other Qualities": [
+                {
+                    "Percentage of Protein (%)": "11.97"
+                }
+            ]
+        },
+        {
+            "Special Identifying Characteristics": [
+                {
+                    "Special Description": "1.Oily weighty panicle\n2.Big white color strong seed\n3.Ripen faster than other species "
+                }
+            ]
+        },
+        {
+            "imagearray": [
+                {
+                    "Aditya_1_6YWkYQd": "https://sqccapi.pathway.com.np/media/CropVarietyImages/1_6YWkYQd.JPG"
+                },
+                {
+                    "Aditya_Capture_2_LuAqweK": "https://sqccapi.pathway.com.np/media/CropVarietyImages/Capture_2_LuAqweK.JPG"
+                },
+                {
+                    "Aditya_Capture3_dsU6RNl": "https://sqccapi.pathway.com.np/media/CropVarietyImages/Capture3_dsU6RNl.JPG"
+                },
+                {
+                    "Aditya_Capture4_vgvD6R0": "https://sqccapi.pathway.com.np/media/CropVarietyImages/Capture4_vgvD6R0.JPG"
+                }
+            ]
+        }
+    ]
+}
